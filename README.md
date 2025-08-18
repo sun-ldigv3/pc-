@@ -20,4 +20,4 @@ python main.py
 
 # 使用方法02
 <li>直接下载Releases中的zip文件</li>
-<li>解压后运行 pc_optimizer.exe </li>
+<li>解压后以管理员身份运行 pc_optimizer.exe </li>
